@@ -1,0 +1,16 @@
+a0740909994567c16e89984f748e52e2 *DESCRIPTION
+53456adc971a073625879695c9cc26c9 *NAMESPACE
+182b86633e2b8753d3e9a3086d3c12be *R/AverageMovesToWin.R
+5cb96e23f1feb2ec243e5f4639116732 *R/FrequencyOfSquaresByPercentage.R
+433545af37d7b919485cfa8680664224 *R/ImportenceOfTheLadders.R
+a0ade44b40db8e89bae3d97756d51ec5 *R/ImportenceOfTheSnakes.R
+7fbb4aca9d1d4f2e65a71845a1bd73f4 *R/MostCommonSquare.R
+623467feff6f411493f4401f8eb13f4e *R/PlotMyGame.R
+a6a1f60204c1389ad420f4fee63c39a0 *R/SnakesAndLaddersGame.R
+eef2813377a284312ad3240ea3ddf88b *man/AverageMovesToWin.Rd
+4e9becf854cffe5e2a9e4d4038421a48 *man/FrequencyOfSquaresByPercentage.Rd
+dcc5f615e4ad39c302310d2bf539e9a6 *man/ImportenceOfTheLadders.Rd
+760420ce9bf82b45cad1ed745c4db5df *man/ImportenceOfTheSnakes.Rd
+90b00e632477968471004501df0a0976 *man/MostCommonSquare.Rd
+67119c2731f1b68de44cd834648a6c00 *man/PlotMyGame.Rd
+c9a3c90c045170116deb2074085bc4d4 *man/SnakesAndLaddersGame.Rd
